@@ -74,35 +74,19 @@ const houses = [
     },
     {
         id: 5,
-        title: 'N/A',
-        location: 'N/A',
-        price: 'N/A',
-        image: 'N/A',
-        badge: 'N/A',
-        bedrooms: 0,
-        bathrooms: 0,
-        area: 'N/A',
-        description: 'N/A',
-        year: 0,
-        heating: 'N/A',
-        parking: 'N/A',
-        extra: 'N/A'
-    },
-    {
-        id: 6,
-        title: 'N/A',
-        location: 'N/A',
-        price: 'N/A',
-        image: 'N/A',
-        badge: 'N/A',
-        bedrooms: 0,
-        bathrooms: 0,
-        area: 'N/A',
-        description: 'N/A',
-        year: 0,
-        heating: 'N/A',
-        parking: 'N/A',
-        extra: 'N/A'
+        title: 'Departamento en Plutarco Elías Calles',
+        location: 'Fovissste Chamizal, con acceso directo a Av. Plutarco Elías Calles, Ciudad Juárez',
+        price: '$12,000 al mes',
+        image: './imagenes_casas/casa5_renta.jpeg',
+        badge: 'En renta',
+        bedrooms: 3,
+        bathrooms: '1½',
+        area: 'No especificada',
+        description: 'Departamento amueblado en segundo piso, en Fovissste Chamizal, con acceso directo a la avenida Plutarco Elías Calles. Cuenta con 3 habitaciones, 1½ baños, estacionamiento y el anuncio lo describe como muy seguro. Renta: $12,000 al mes. Informes: 656 302 0456.',
+        year: 'No especificado',
+        heating: 'No especificada',
+        parking: 'Sí',
+        extra: 'Amueblado, segundo piso; muy seguro'
     }
 ];
 
